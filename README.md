@@ -1,9 +1,7 @@
-# Machine-Vision-Projects
-A curated collection of Machine Vision and Computer Vision projects, ranging from real-time hand gesture recognition to advanced object detection using OpenCV, MediaPipe, and Deep Learning.
-
-Machine Vision Projects 👁️
-
+# Machine-Vision-Projects 👁️
 Welcome to my Machine Vision Projects Repository.
+
+A curated collection of Machine Vision and Computer Vision projects, ranging from real-time hand gesture recognition to advanced object detection using OpenCV, MediaPipe, and Deep Learning.
 
 This repository contains a collection of my experiments and projects in Computer Vision, focusing on real-time image processing, hand tracking, and intelligent visual systems using Python.
 Overview
