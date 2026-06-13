@@ -1,5 +1,5 @@
+#pip install opencv-python==4.12.0.88
 import cv2
-##pip install opencv-python==4.12.0.88
 
 # Initialize the window
 cv2.namedWindow("window", cv2.WINDOW_NORMAL)
