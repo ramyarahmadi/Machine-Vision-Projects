@@ -35,17 +35,15 @@ Machine-Vision-Projects
 
 │
 
-├── 01-Hand-Finger-Counter
-
-│ ├── main.py
-
-│ ├── requirements.txt
+├── 01-OpenCV-basics
+|
+│ ├── OpenCV.py
 
 │ └── README.md
 
 │
 
-├── 02-Hand-Gesture-Recognition
+├── 02-Hand-landmark-Detection
 
 │ ├── main.py
 
