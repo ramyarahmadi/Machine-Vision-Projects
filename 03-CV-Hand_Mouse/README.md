@@ -26,14 +26,7 @@ Ensure you have Python installed on your system.
 ### Installation
 1. **Clone the repository:**
 ```bash
-   git clone https://github.com/YOUR_USERNAME/Virtual-Mouse-Control.git
-   cd Virtual-Mouse-Control
+   git clone https://github.com/ramyarahmad/Machine-Vision-Projects/03-CV-Hand_Mouse.git
+   cd 03-CV-Hand_Mouse
    
-2.Install dependencies:
-   pip install -r requirements.txt
 
-   
-How to Run
-
-Simply execute the main script:
-python main.py
