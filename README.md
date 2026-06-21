@@ -44,14 +44,23 @@ Machine-Vision-Projects
 │
 
 ├── 02-Hand-landmark-Detection
+
 │             └── Reversible
+
 |                    ├── Reversible_detect.py
+
 │                    └── README.md
+
 │             └── Symmetrical
+
 |                    ├── Symmetrica_detectl.py
+
 │                    └── README.md
+
 │ ├── Hand_Detect.py
+
 │ └── README.md
+
 Learning Focus
 
 Rather than only implementing code, these projects focus on understanding the logic and mathematics behind computer vision techniques, including:
