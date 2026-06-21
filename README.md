@@ -44,9 +44,13 @@ Machine-Vision-Projects
 │
 
 ├── 02-Hand-landmark-Detection
-
-│ ├── main.py
-
+│             └── Reversible
+|                    ├── Reversible_detect.py
+│                    └── README.md
+│             └── Symmetrical
+|                    ├── Symmetrica_detectl.py
+│                    └── README.md
+│ ├── Hand_Detect.py
 │ └── README.md
 Learning Focus
 
