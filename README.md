@@ -47,15 +47,7 @@ Machine-Vision-Projects
 
 │ --└── Reversible
 
-| ----------├── Reversible_detect.py
-
-│ ----------└── README.md
-
 │ --└── Symmetrical
-
-| ----------├── Symmetrica_detectl.py
-
-│ ----------└── README.md
 
 │ --├── Hand_Detect.py
 
