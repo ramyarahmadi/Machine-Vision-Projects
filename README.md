@@ -36,7 +36,7 @@ Machine-Vision-Projects
 │
 
 ├── 01-OpenCV-basics
-|
+
 │ ├── OpenCV.py
 
 │ └── README.md
