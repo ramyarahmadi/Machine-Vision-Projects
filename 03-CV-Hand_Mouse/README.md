@@ -1,6 +1,6 @@
 # 🖐️ Virtual Mouse Control using Computer Vision
 
-![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
+![Python](https://img.shields.io/badge/python-3.11+-blue.svg)
 ![OpenCV](https://img.shields.io/badge/OpenCV-Library-green.svg)
 ![MediaPipe](https://img.shields.io/badge/MediaPipe-Google-orange.svg)
 
