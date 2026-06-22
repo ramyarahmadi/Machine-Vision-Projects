@@ -62,21 +62,18 @@ pip install face_recognition
 
 Step 3: Install other dependencies
 
-                                                                    bash
 pip install opencv-python numpy
 
 Usage
 
 Run the script:
 
-                                                                    bash
 python main.py
 
     Press q to quit the webcam window.
 
 Project Structure
 
-                                                                    bash
 project-folder/
 │
 ├── ramyar.jpg
