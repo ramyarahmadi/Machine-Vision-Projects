@@ -48,6 +48,7 @@ pip install dlib‑<version>‑cp<python-version>‑cp<python-version>‑win_amd
 
 If you are using a ready-made wheel file, install it directly from the terminal:
 
+
                                                                     
 pip install dlib-19.24.2-cp310-cp310-win_amd64.whl
 
@@ -57,7 +58,7 @@ Step 2: Install face_recognition
 
 After dlib is installed successfully, install the face recognition library:
 
-                                                                    
+                                                                 
 pip install face_recognition
 
 Step 3: Install other dependencies
