@@ -74,3 +74,8 @@ This repository will continue to grow with additional projects such as:
 License
 
 This project is released under the MIT License, meaning the code can be used and modified with proper attribution.
+
+
+
+<img width="1130" height="582" alt="output" src="https://github.com/user-attachments/assets/ca6f34cc-11f5-4375-8b98-08e574d6c160" />
+
