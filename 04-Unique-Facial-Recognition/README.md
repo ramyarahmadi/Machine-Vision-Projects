@@ -44,41 +44,44 @@ Before installing face_recognition, you should install the compiled dlib package
 Example:
 
                                                                   
-pip install dlib‑<version>‑cp<python-version>‑cp<python-version>‑win_amd64.whl
+    pip install dlib‑<version>‑cp<python-version>‑cp<python-version>‑win_amd64.whl
 
 If you are using a ready-made wheel file, install it directly from the terminal:
 
 
                                                                     
-pip install dlib-19.24.2-cp310-cp310-win_amd64.whl
-
-    Make sure the wheel version matches your Python version.
+    pip install dlib-19.24.2-cp310-cp310-win_amd64.whl
+    
+Make sure the wheel version matches your Python version.
 
 Step 2: Install face_recognition
 
 After dlib is installed successfully, install the face recognition library:
 
                                                                  
-pip install face_recognition
+    pip install face_recognition
 
 Step 3: Install other dependencies
 
-pip install opencv-python numpy
+    pip install opencv-python numpy
 
 Usage
 
 Run the script:
 
-python main.py
+    python main.py
 
-    Press q to quit the webcam window.
+Press q to quit the webcam window.
 
 Project Structure
 
 project-folder/
 │
+|
 ├── ramyar.jpg
+|
 ├── main.py
+|
 └── README.md
 
 Notes
@@ -99,4 +102,4 @@ This project demonstrates:
 
 License
 
-This project is open-source and free to use for educational purposes.
+    This project is open-source and free to use for educational purposes.
